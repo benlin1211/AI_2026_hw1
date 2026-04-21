@@ -1,0 +1,7 @@
+{
+  "num_samples": 100,
+  "clip_visual_similarity_mean": 0.7711899167299271,
+  "clip_prompt_similarity_mean": 0.3402754670381546,
+  "kid_mean": 0.05557416006922722,
+  "kid_std": 0.005486273672431707
+}

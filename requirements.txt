@@ -1,0 +1,26 @@
+# Merged from original requirements.txt and requirements_ocr_easyocr.txt
+# Conflict resolutions chosen to match the working OCR environment:
+# - numpy pinned to 1.26.4 to avoid NumPy 2.x ABI issues with cv2/EasyOCR
+# - opencv-python pinned to 4.8.1.78 to match the working OCR setup
+# - easyocr/pdf2image kept for OCR pipeline
+# - original major packages retained
+
+pillow
+pandas
+tqdm
+safetensors
+sentencepiece
+scipy
+torchmetrics
+torch-fidelity
+pymupdf
+sentence-transformers
+pyarrow
+pytesseract
+rank-bm25
+torchmetrics
+numpy==1.26.4
+opencv-python==4.8.1.78
+pdf2image
+easyocr
+pandas

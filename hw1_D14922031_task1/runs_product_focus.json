@@ -1,0 +1,902 @@
+[
+  {
+    "pair_id": "0001",
+    "ref_image": "r044.png",
+    "product_image": "p001.png",
+    "product_title": "ORICO USB4 SSD Enclosure for Thunderbolt 4/3, M.2 NVMe SSD, Mac mini and Laptops, Model TCM2",
+    "prompt_style": "product_focus",
+    "prompt": "Line 1:",
+    "negative_prompt": "blurry, distorted, cluttered, low resolution, extra text, irrelevant objects, dark shadows, cluttered background, poor lighting, unprofessional, messy, disorganized,"
+  },
+  {
+    "pair_id": "0002",
+    "ref_image": "r011.png",
+    "product_image": "p002.png",
+    "product_title": "Haier 620L Side-by-Side Refrigerator with Large Freezer Space, Black-Gold Purification, Precision Air Cooling, Dual Inverter, Model BCD-620WLHSSEDB9",
+    "prompt_style": "product_focus",
+    "prompt": "A sleek, modern Haier 620L side-by-side refrigerator in black-gold, with a large freezer, precision air cooling, and dual inverter, displayed against a clean white background.",
+    "negative_prompt": "cluttered text, blurry image, extra product, off-center, low resolution, cartoonish style, unrealistic lighting, distorted features, poor color, low"
+  },
+  {
+    "pair_id": "0003",
+    "ref_image": "r183.png",
+    "product_image": "p003.png",
+    "product_title": "HEGEN PPSU Straw Training Cup for Ages 1-3, 330ml, Multifunctional Kids Drinking Cup, Blue",
+    "prompt_style": "product_focus",
+    "prompt": "A vibrant blue and white Hefty party cup with a clear plastic Hegen straw training cup, 330ml, for ages 1-3, centered in a bright orange background, clean and modern, with a bold SHOP NOW button at the bottom.",
+    "negative_prompt": "cluttered, blurry, low resolution, text-heavy, cartoonish, unrealistic, distorted, and unprofessional."
+  },
+  {
+    "pair_id": "0004",
+    "ref_image": "r037.png",
+    "product_image": "p004.png",
+    "product_title": "Haier Little Red Flower Series Frost-Free Freezer, 200L+, -38°C Ultra-Low Temperature, Model BC/BD-201WGHED",
+    "prompt_style": "product_focus",
+    "prompt": "A sleek, modern Haier freezer in deep navy blue, featuring a minimalist design with a smooth, matte finish and a small control panel on the front, set against a clean white background.",
+    "negative_prompt": "cluttered text, blurry image, extra colors, low resolution, product not centered"
+  },
+  {
+    "pair_id": "0005",
+    "ref_image": "r025.png",
+    "product_image": "p005.png",
+    "product_title": "UGREEN 100W Power Bank, 20000mAh Laptop Fast Charger, PD Fast Charging, Flight-Approved Portable Power Source",
+    "prompt_style": "product_focus",
+    "prompt": "UGREEN 100W Power Bank, 20000mAh, PD fast charging, sleek silver design, modern portable charger, 100% visible, central focus, clean background, high detail, vibrant colors, sharp focus, minimalist style, premium product, glowing digital display, modern tech, sleek, powerful, high-end, professional, clean, modern, stylish,",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0006",
+    "ref_image": "r036.png",
+    "product_image": "p006.png",
+    "product_title": "STELANG 517EC Semi-Automatic Espresso Machine with Grinder and Milk Frother, Integrated Grind-and-Brew Design, Off-White",
+    "prompt_style": "product_focus",
+    "prompt": "A sleek, off-white semi-automatic espresso machine with a grinder and frother, featuring a modern design and a clean, minimalist aesthetic, centered in a well-lit, professional product shot with a subtle, elegant background.",
+    "negative_prompt": "cluttered, blurry, low resolution, cartoonish, distorted, text-heavy, dark background, product in disarray, unrealistic lighting, excessive shadows."
+  },
+  {
+    "pair_id": "0007",
+    "ref_image": "r094.png",
+    "product_image": "p007.png",
+    "product_title": "Morphy Richards MR1158 Electric Steamer and Stewing Pot, 12L Large Capacity, Multifunctional Cooking Pot, Blue",
+    "prompt_style": "product_focus",
+    "prompt": "A modern blue electric steamer with a large 12L capacity, featuring a whole chicken and vegetables inside, set against a vibrant green background with a fresh, clean, and inviting food presentation.",
+    "negative_prompt": "cluttered, blurry, low resolution, text-heavy, cartoonish, unrealistic, and unprofessional."
+  },
+  {
+    "pair_id": "0008",
+    "ref_image": "r149.png",
+    "product_image": "p008.png",
+    "product_title": "Hbada E3Air 4th Gen Ergonomic Chair, Office and Gaming Reclining Computer Chair",
+    "prompt_style": "product_focus",
+    "prompt": "Modern, sleek, high-end office chair with a mesh fabric, ergonomic design, and a five-point base, set against a minimalist background with a dark and light color scheme, emphasizing clean lines and premium materials.",
+    "negative_prompt": "cluttered, blurry, low resolution, cartoonish, distorted, and overly saturated colors."
+  },
+  {
+    "pair_id": "0009",
+    "ref_image": "r020.png",
+    "product_image": "p009.png",
+    "product_title": "Red Dragonfly Men's Thick-Soled Height-Increasing Business Dress Shoes, Cowhide Casual Leather Shoes, Black, WTA343201, Size 42",
+    "prompt_style": "product_focus",
+    "prompt": "Black leather business dress shoes with thick soles, sharp silhouette, modern design, clean lines, high-quality material, professional and stylish, centered on a white background, bold and clear, with a subtle texture, no shadows, no text, no logos, no background elements, no people,",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0010",
+    "ref_image": "r113.png",
+    "product_image": "p010.png",
+    "product_title": "Haier 60L Electric Water Heater, 3300W, Live-Water Wash, No-Replacement Magnesium Rod, Class 1 Energy Efficiency, Model FW3U1",
+    "prompt_style": "product_focus",
+    "prompt": "A sleek, modern Haier 60L electric water heater with a silver finish, featuring a digital display showing 60°C, set against a dark blue background with a professional, clean design.",
+    "negative_prompt": "cluttered text, blurry image, extra elements, low resolution, distorted features, irrelevant objects, poor lighting, off-colors, cluttered background, unprofessional"
+  },
+  {
+    "pair_id": "0011",
+    "ref_image": "r007.png",
+    "product_image": "p011.png",
+    "product_title": "CASDON Integrated Stove with Steaming and Baking Oven, Gas Cooktop, Right-Side Exhaust for Natural Gas, Model JJZT-B2S9-T2E Pro",
+    "prompt_style": "product_focus",
+    "prompt": "A modern, sleek black and stainless steel integrated stove with a gas cooktop and oven, featuring a right-side exhaust, set against a clean white background, showcasing a high-quality, contemporary design for a modern kitchen.",
+    "negative_prompt": "cluttered, blurry, low resolution, extra text, cartoonish, unrealistic lighting, product not in focus, wrong color, damaged, outdated, unprofessional,"
+  },
+  {
+    "pair_id": "0012",
+    "ref_image": "r071.png",
+    "product_image": "p012.png",
+    "product_title": "Xiaomi Redmi Book 14 2025 Lightweight Laptop, Intel Core 5-220H, High-Performance Office Notebook",
+    "prompt_style": "product_focus",
+    "prompt": "Xiaomi Redmi Book 14 2025 laptop, sleek silver, vibrant red and blue screen, modern design, high-performance office notebook, clean white background, sharp focus, dynamic lighting, professional advertisement, bold and modern, centered composition, high detail, realistic, 8K, cinematic, sleek, minimalist, vibrant, high-tech, clean,",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0013",
+    "ref_image": "r046.png",
+    "product_image": "p013.png",
+    "product_title": "ERKE Women's Breathable Mesh Sports Shoes, Lightweight Soft-Soled Casual Running Shoes, Jie'sao 3.0",
+    "prompt_style": "product_focus",
+    "prompt": "A stylish, modern womens athletic shoe with a white and grey breathable mesh design, featuring a soft-sole and a sleek silhouette, showcased against a clean white background with a confident woman in the background.",
+    "negative_prompt": "cluttered, blurry, low resolution, extra text, dark colors, distorted image, poor lighting, messy composition, unrealistic proportions, product not"
+  },
+  {
+    "pair_id": "0014",
+    "ref_image": "r016.png",
+    "product_image": "p014.png",
+    "product_title": "TCL 65T6L-C 65-inch QD-Mini LED QLED TV, Quantum Dot, 1100 nits XDR",
+    "prompt_style": "product_focus",
+    "prompt": "A luxurious 65-inch TCL QLED TV displaying a vibrant green gemstone flower, with a rich, colorful patchwork hoodie design in the background, bold and elegant, modern and premium.",
+    "negative_prompt": "blurry, pixelated, low resolution, dark, dull, cluttered, messy, unprofessional, no details, poor quality, distorted, garbled, out of focus,"
+  },
+  {
+    "pair_id": "0015",
+    "ref_image": "r162.png",
+    "product_image": "p015.png",
+    "product_title": "HP GK400F Mechanical Keyboard and Mouse Combo, Wired Office and Gaming Set, Silver with Ice Blue Backlight, Red Switch, USB",
+    "prompt_style": "product_focus",
+    "prompt": "A sleek HP GK400F mechanical keyboard with ice blue backlighting and red switches, silver chassis, in a modern, minimalist design, centered on a clean white background, vibrant and professional, high detail, sharp focus, realistic lighting, 8K resolution, product photography, clear and bold,",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0016",
+    "ref_image": "r057.png",
+    "product_image": "p016.png",
+    "product_title": "Insta360 GO 3S 4K Thumb Camera, Vlog Action Camera for Cycling, Kids, Pets and Sports, Standard Kit, White, 64GB",
+    "prompt_style": "product_focus",
+    "prompt": "White Insta360 GO 3S 4K camera, sleek design, central focus, vibrant blue background, modern, clean, bright, high quality, product shot, clear, sharp, professional, advertisement, promotional, vibrant, dynamic, modern, stylish, clear, crisp, high resolution, 4K, action camera, vlog, cycling, kids, pets, sports, standard",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0017",
+    "ref_image": "r165.png",
+    "product_image": "p017.png",
+    "product_title": "KARCHER KHB Air Cordless Folding Car Washer, Handheld Lithium Battery Water Gun, 100W",
+    "prompt_style": "product_focus",
+    "prompt": "KARCHER KHB Air Cordless Folding Car Washer, handheld, bright yellow and black, clean, modern, professional, high detail, centered, sharp focus, realistic, 8K, product shot, clean background, no shadows, no text, no blur, no clutter, no watermark, no extra elements, no people, no",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0018",
+    "ref_image": "r093.png",
+    "product_image": "p018.png",
+    "product_title": "DREAM RANGER Foldable Water Cup, Portable Outdoor Camping and Travel Cup, Food-Grade Silicone, Orange, 600ml",
+    "prompt_style": "product_focus",
+    "prompt": "A vibrant orange foldable water cup with a sleek design, featuring a transparent lid and a sturdy handle, set against a warm orange background, showcasing a modern and functional outdoor travel cup.",
+    "negative_prompt": "cluttered, blurry, low resolution, text-heavy, dark colors, product not in focus."
+  },
+  {
+    "pair_id": "0019",
+    "ref_image": "r159.png",
+    "product_image": "p019.png",
+    "product_title": "SUPOR Electric Cooking Pot, Mini Hot Pot and Steamer for Dorm Use, 1.7L with Steamer Basket, Nonstick, Steam Above and Boil Below",
+    "prompt_style": "product_focus",
+    "prompt": "A clean, modern electric cooking pot with a white and cream color scheme, featuring a nonstick surface and a steamer basket, designed for dorm use, with a minimalist aesthetic and a warm, inviting mood.",
+    "negative_prompt": "cluttered, blurry, distorted, text-heavy, unrealistic, low quality, dark colors, excessive shadows."
+  },
+  {
+    "pair_id": "0020",
+    "ref_image": "r189.png",
+    "product_image": "p020.png",
+    "product_title": "JOMOO Smart Toilet Set, UVC Sterilization, Magic Foam, NFC, Full Water-Path Purification, 305mm Rough-In, Model ZS780",
+    "prompt_style": "product_focus",
+    "prompt": "sleek white smart toilet with UVC sterilization, NFC, and magic foam, 305mm rough-in, modern design, clean and futuristic, centered in a minimalist bathroom setting, soft lighting, high contrast, sharp focus, clean and modern aesthetic, JOMOO ZS780, product showcase, realistic, high detail, vibrant",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0021",
+    "ref_image": "r033.png",
+    "product_image": "p021.png",
+    "product_title": "Jijintong Hilton Hotel Mattress, 30cm Latex Pocket Spring Mattress, Double-Sided, Model A, 0.9m x 1.9m",
+    "prompt_style": "product_focus",
+    "prompt": "A modern, clean advertisement for a white, square-shaped mattress with a tufted top, set against a minimalist blue and white background, with a bold SAVE UP TO $500 headline and a SHOP NOW button.",
+    "negative_prompt": "cluttered text, blurry image, extra objects, dark colors, low resolution, cartoonish style."
+  },
+  {
+    "pair_id": "0022",
+    "ref_image": "r118.png",
+    "product_image": "p022.png",
+    "product_title": "YERENTANG Thai Imported Fragrance Shampoo and Conditioner, Oil Control, Volumizing, Anti-Dandruff, Floral Veil, 500ml",
+    "prompt_style": "product_focus",
+    "prompt": "A clean, modern product poster featuring a white bottle of YEREN TANG fragrance shampoo with a blue liquid, set against a soft beige background, with a smiling woman in the background, promoting healthy skin and a refreshing scent.",
+    "negative_prompt": "cluttered text, blurry image, dark colors, low resolution, excessive text, unrealistic skin, unnatural lighting, product too small, no"
+  },
+  {
+    "pair_id": "0023",
+    "ref_image": "r095.png",
+    "product_image": "p023.png",
+    "product_title": "FULL MONTY Washed Cotton Twill Casual Pants for Men, Light Khaki Business Casual Trousers, 2024 Autumn/Winter, 2XL",
+    "prompt_style": "product_focus",
+    "prompt": "A man wearing light khaki casual pants, wide-leg, relaxed fit, with a clean, modern look, standing against a neutral background.",
+    "negative_prompt": "blurry, distorted, extra text, low resolution, dark colors, cluttered."
+  },
+  {
+    "pair_id": "0024",
+    "ref_image": "r034.png",
+    "product_image": "p024.png",
+    "product_title": "DJI Pocket 3 Osmo Pocket Gimbal Camera for Vlog, Travel and Beauty Video, Standard Kit + 256GB Card, Fast Focus",
+    "prompt_style": "product_focus",
+    "prompt": "sleek black DJI Osmo Pocket 3 gimbal camera, compact and modern, with a clear screen showing a snowboarder, set against a bright blue icy background, vibrant and dynamic, high detail, sharp focus, professional vlog and travel video camera, centered, bold, clean, modern,",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0025",
+    "ref_image": "r097.png",
+    "product_image": "p025.png",
+    "product_title": "Insulated Stainless Steel Lunch Box with Lid, Large-Capacity Bento Box for Office and Students, 2-Tier, Off-White",
+    "prompt_style": "product_focus",
+    "prompt": "A stylish, large, two-tiered off-white insulated lunch box with stainless steel accents, modern design, clean lines, and a sleek, contemporary look, centered in a bright, minimalist advertisement with a warm, inviting mood.",
+    "negative_prompt": "clutter, messy, blurry, low quality, text clutter, cartoonish, unrealistic, distorted, extra text, dark colors, shadows, low resolution, product"
+  },
+  {
+    "pair_id": "0026",
+    "ref_image": "r150.png",
+    "product_image": "p026.png",
+    "product_title": "Tianyuyun Handbag Wagon, Ultra-Light Foldable Camping Cart, 100L, Brilliant Orange",
+    "prompt_style": "product_focus",
+    "prompt": "A modern, ultra-light foldable camping cart in brilliant orange, 100L capacity, with a sleek design and wheels, positioned on a floating dock, showcasing its portability and utility.",
+    "negative_prompt": "cluttered, blurry, low resolution, cartoonish, unrealistic, extra text, distorted."
+  },
+  {
+    "pair_id": "0027",
+    "ref_image": "r166.png",
+    "product_image": "p027.png",
+    "product_title": "MAXCOOK 304 Stainless Steel Breakfast Cup, Portable Oatmeal and Soup Cup with Lid, Spoon and Straw, Coral Red, 550ml",
+    "prompt_style": "product_focus",
+    "prompt": "A sleek coral red MAXCOOK breakfast cup with a white body, featuring a lid, spoon, and straw, centered in a vibrant outdoor scene with a cool, modern aesthetic.",
+    "negative_prompt": "cluttered, blurry, low resolution, text-heavy, unrealistic, cartoonish, overly complex, dark, muted colors, shadows, shadows, no brand, no product,"
+  },
+  {
+    "pair_id": "0028",
+    "ref_image": "r104.png",
+    "product_image": "p028.png",
+    "product_title": "AKALU Saffron Feminine Care Essential Oil, Intimate Care and Firming Oil, 50ml",
+    "prompt_style": "product_focus",
+    "prompt": "A close-up of a red glass bottle with a gold dropper, labeled AKALU Saffron Feminine Care Essential Oil, centered on a clean white background, with a soft, warm glow, elegant and luxurious, featuring a womans face in the background, promoting a natural",
+    "negative_prompt": "cluttered, blurry, distorted, text-heavy, low resolution, harsh lighting, unnatural colors, product not in focus, excessive shadows, unrealistic skin"
+  },
+  {
+    "pair_id": "0029",
+    "ref_image": "r022.png",
+    "product_image": "p029.png",
+    "product_title": "Khadas Mind 2 AI Mini Workstation, Ultra-Light Portable Mini PC, Ultra 7 155H, 32GB+1TB",
+    "prompt_style": "product_focus",
+    "prompt": "sleek silver Khadas Mind 2 AI Mini PC, ultra-light, minimalist design, modern tech, clean white background, professional product shot, sharp focus, vibrant colors, high detail, modern aesthetic, clean and simple composition, perfect for a tech poster.",
+    "negative_prompt": "cluttered, blurry, messy, dark colors, low resolution, distorted, extra text, cluttered background, unprofessional, poor lighting, low quality, pixelated,"
+  },
+  {
+    "pair_id": "0030",
+    "ref_image": "r082.png",
+    "product_image": "p030.png",
+    "product_title": "Mijia H40 Robot Vacuum and Mop, Anti-Tangle, App-Controlled, Self-Cleaning Mop, All-in-One Sweeping and Mopping Robot",
+    "prompt_style": "product_focus",
+    "prompt": "A clean, modern advertisement for the Mijia H40 robot vacuum, featuring a sleek white design with a red accent, set against a minimalist background with a subtle autumn leaf motif. The product is centered, with a soft, warm color palette of white,",
+    "negative_prompt": "cluttered text, blurry image, excessive shadows, cartoonish style, product not in focus, unrealistic lighting, overly complex background, product"
+  },
+  {
+    "pair_id": "0031",
+    "ref_image": "r050.png",
+    "product_image": "p031.png",
+    "product_title": "ECOFLOW RIVER 3 Portable Power Station, 76800mAh, 300W, 245Wh, Compact Outdoor and Dorm Backup Power Supply",
+    "prompt_style": "product_focus",
+    "prompt": "sleek black ECOFLOW RIVER 3 power station, 76800mAh, 300W, compact, modern design, clean lines, outdoor power supply, high-tech, vibrant blue background, sharp focus, professional product shot, centered, bold text, modern, clean, minimalist, high detail, realistic, well-lit, professional, clear, sharp, modern, clean, minimalist,",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0032",
+    "ref_image": "r038.png",
+    "product_image": "p032.png",
+    "product_title": "INAIR 2 Pro + Pod AR Spatial Computer and AR Glasses, AI Glasses with PC Streaming, 3DoF Spatial Hover, Stepless Electrochromic Dimming",
+    "prompt_style": "product_focus",
+    "prompt": "sleek INAIR 2 Pro AR glasses with Pod AR, 3DoF spatial hover, stepless electrochromic dimming, modern design, minimalist aesthetic, clean background, high detail, vibrant colors, premium feel, central focus, sharp focus, realistic lighting, premium watch ad style, bold text, luxury, futuristic, advanced",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0033",
+    "ref_image": "r080.png",
+    "product_image": "p033.png",
+    "product_title": "COACH CITY Tote Bag 33 for Women, Classic Signature Monogram Tote, Sand/Gray Brown",
+    "prompt_style": "product_focus",
+    "prompt": "A modern, stylish tote bag with a beige and gray brown signature monogram pattern, featuring a classic design with sturdy handles, set against a clean white background. The bag is centered, with a subtle, elegant aesthetic.",
+    "negative_prompt": "cluttered, blurry, low resolution, extra text, messy composition, dark colors, shadows, and a cluttered background."
+  },
+  {
+    "pair_id": "0034",
+    "ref_image": "r075.png",
+    "product_image": "p034.png",
+    "product_title": "SHEYIN X9 True Bone Conduction Bluetooth Headphones, Professional Swimming Earphones, IPX8 Waterproof, 32GB Dual Mode",
+    "prompt_style": "product_focus",
+    "prompt": "sleek black SHEYIN X9 headphones, professional bone conduction, IPX8 waterproof, 32GB dual mode, central focus, modern design, clean white background, vibrant colors, sharp details, premium feel, digital magazine layout, bold text, high contrast, professional product shot, clear view, realistic lighting, modern aesthetic,",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0035",
+    "ref_image": "r186.png",
+    "product_image": "p035.png",
+    "product_title": "Morphy Richards Instant Hot Water Purifier, Countertop RO Reverse Osmosis Water Purifier and Kettle, Model MR6051, Gray",
+    "prompt_style": "product_focus",
+    "prompt": "sleek gray Morphy Richards water purifier, modern design, countertop RO system, digital display, clean lines, minimalist aesthetic, central focus, high-quality product, premium feel, soft lighting, elegant, contemporary, clean, modern, sophisticated, minimalist, clean, modern, elegant, sophisticated, high-end, premium, sleek, modern, elegant, sophisticated, clean,",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0036",
+    "ref_image": "r137.png",
+    "product_image": "p036.png",
+    "product_title": "DELIXI Rechargeable Water Pump for Irrigation and Garden Watering, 9-Battery Version with 5m Explosion-Proof Hose",
+    "prompt_style": "product_focus",
+    "prompt": "A vibrant red DELIXI water pump with a black handle, featuring a 5m explosion-proof hose, displayed against a clean white background, with a modern, minimalist design and a bold, clear brand name.",
+    "negative_prompt": "blurry, low resolution, extra text, cluttered, dark colors, shadows, and irrelevant objects."
+  },
+  {
+    "pair_id": "0037",
+    "ref_image": "r168.png",
+    "product_image": "p037.png",
+    "product_title": "Matte Nordic Vertical-Rib Ceramic Flower Pot, Green, Medium 13 x 13 x 12.3cm",
+    "prompt_style": "product_focus",
+    "prompt": "Matte Nordic vertical-rib ceramic flower pot, green, medium, 13x13x12.3cm, vibrant pink roses, clean white background, modern farmhouse style, soft lighting, elegant and inviting, central focus, minimalist composition, warm and natural, perfect for home decor, bright and fresh, clean and simple, natural light,",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0038",
+    "ref_image": "r100.png",
+    "product_image": "p038.png",
+    "product_title": "PANDA CD-67 All-in-One CD Player and Speaker System, Desktop Bluetooth Audio Player, White",
+    "prompt_style": "product_focus",
+    "prompt": "sleek white PANDA CD-67 all-in-one player with transparent cover, modern design, clean lines, minimalist aesthetic, centered on a white background, professional product photography, sharp focus, vibrant lighting, high detail, realistic textures, modern and elegant, perfect for a premium product poster.",
+    "negative_prompt": "blurry, low resolution, dark shadows, cluttered, messy, distorted, poor lighting, inaccurate colors, extra text, cluttered background, unprofessional, low"
+  },
+  {
+    "pair_id": "0039",
+    "ref_image": "r135.png",
+    "product_image": "p039.png",
+    "product_title": "Robam 60A0 Range Hood, Touch Control, 23m³/min Top-Suction Cooker Hood, Easy-Clean Inner Cavity, Natural Gas Version",
+    "prompt_style": "product_focus",
+    "prompt": "Modern kitchen with sleek black and white design, Robam 60A0 range hood, top-suction, touch control, 23m³/min, natural gas, clean inner cavity, central focus, minimalist, clean, modern, elegant, sophisticated, stylish, contemporary, sleek, sharp, clean, modern, minimalist, elegant, sophisticated, stylish, contemporary, sleek, sharp, clean,",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0040",
+    "ref_image": "r148.png",
+    "product_image": "p040.png",
+    "product_title": "Jiedentai High-Speed Leafless Hair Dryer, Quiet Negative-Ion Hair Dryer with Constant-Temperature Hair Care, Rose Red",
+    "prompt_style": "product_focus",
+    "prompt": "BestSelling product poster, modern design, vibrant orange background, sleek black and pink hair dryer, clean composition, high-quality, professional, 8k, 4k, 3D render, realistic, detailed, sharp focus, central, prominent, clear, bright, vibrant, modern, stylish, clean, minimal, simple, clean, modern, high-end, premium, elegant, sophisticated,",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0041",
+    "ref_image": "r188.png",
+    "product_image": "p041.png",
+    "product_title": "Liyi Jiujiu Alpaca Massage Pillow, Full-Body Massage Cushion with Red-Light Heat Therapy",
+    "prompt_style": "product_focus",
+    "prompt": "A joyful child holding a white alpaca massage pillow, soft texture, red label, warm lighting, clean background, vibrant colors, playful mood, centered composition, modern advertisement style.",
+    "negative_prompt": "blurry, distorted, extra text, cluttered, dark shadows, low resolution, cartoonish, unrealistic, inappropriate content, inappropriate background, messy, unprofessional, poor"
+  },
+  {
+    "pair_id": "0042",
+    "ref_image": "r139.png",
+    "product_image": "p042.png",
+    "product_title": "joyself Akoya Saltwater Pearl Necklace, Round High-Luster Pearl Collar Necklace, 9-9.5mm, 18K Gold Clasp",
+    "prompt_style": "product_focus",
+    "prompt": "A luxurious pearl necklace with a round high-luster design, 9-9.5mm, 18K gold clasp, centered on a soft white background with a minimalist aesthetic, soft pink and white tones, elegant and sophisticated, high detail, vibrant lighting, clean and modern.",
+    "negative_prompt": "cluttered, messy, blurry, low resolution, dark colors, text, extra elements, distorted, pixelated, low quality, cartoonish, unrealistic, poorly lit,"
+  },
+  {
+    "pair_id": "0043",
+    "ref_image": "r133.png",
+    "product_image": "p043.png",
+    "product_title": "RAIJODA Ultra-Light Iron Wok, Coating-Free Nonstick Frying Pan, 30cm, Pre-Seasoned with Lid",
+    "prompt_style": "product_focus",
+    "prompt": "A modern, minimalist kitchen scene with a sleek, black 30cm RAIJODA wok as the central focus, featuring a wooden handle and a matching lid, set against a clean white background, with a warm, inviting mood and a professional, trustworthy feel.",
+    "negative_prompt": "cluttered, blurry, extra text, cartoonish, low resolution, distorted, messy, and unprofessional."
+  },
+  {
+    "pair_id": "0044",
+    "ref_image": "r117.png",
+    "product_image": "p044.png",
+    "product_title": "Wilderness Shiguang Automatic Pop-Up Tent, Portable Folding Camping Tent, Rainproof and Sunproof, 2-3 Person",
+    "prompt_style": "product_focus",
+    "prompt": "A large, modern, white and beige pop-up tent with a clear entrance, set against a soft, natural background. The tent is the central focus, with a clean, minimalist design. The mood is calm and inviting, suggesting outdoor adventure and comfort.",
+    "negative_prompt": "cluttered, blurry, distorted, low resolution, text, watermark, extra elements, cartoonish, unrealistic, overly complex, dark colors, shadows, shadows, shadows,"
+  },
+  {
+    "pair_id": "0045",
+    "ref_image": "r026.png",
+    "product_image": "p045.png",
+    "product_title": "DJI Osmo Action 4 Sports Camera, Stabilized Outdoor Vlog Camera for Riding and Diving, Standard Kit",
+    "prompt_style": "product_focus",
+    "prompt": "Line 1:",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0046",
+    "ref_image": "r124.png",
+    "product_image": "p046.png",
+    "product_title": "BIGME HiBreak 5.84-inch Color E-Ink Smart Reader Phone, 6GB+128GB",
+    "prompt_style": "product_focus",
+    "prompt": "A sleek, modern smartphone with a 5.84-inch color E-Ink display, featuring a bold black and white design, positioned prominently against a clean, minimalist background with a vibrant purple and blue gradient, showcasing the BIGME HiBreak phone with a clear, sharp focus.",
+    "negative_prompt": "cluttered, blurry, distorted, text-heavy, low resolution, extra elements, unrealistic lighting, product not centered, no brand logo, no phone"
+  },
+  {
+    "pair_id": "0047",
+    "ref_image": "r161.png",
+    "product_image": "p047.png",
+    "product_title": "Viken Air Over-Ear Bluetooth Headphones, Active Noise Cancellation, Personalized Spatial Audio, Pods Max 2 Style",
+    "prompt_style": "product_focus",
+    "prompt": "sleek black over-ear headphones with soft leather cups, centered on a clean white background, modern and minimalist, with a subtle glow, showcasing the Viken Air model, vibrant colors, bold text, and a premium feel, perfect for a tech-focused advertisement.",
+    "negative_prompt": "cluttered, messy, blurry, low resolution, extra text, cartoonish, unrealistic, distorted, and unprofessional."
+  },
+  {
+    "pair_id": "0048",
+    "ref_image": "r167.png",
+    "product_image": "p048.png",
+    "product_title": "Tianjiang Handmade Silk Persian Carpet, Multiple Sizes, No. 25, 270 x 370cm",
+    "prompt_style": "product_focus",
+    "prompt": "A luxurious, ornate Persian carpet with a central medallion and floral patterns, featuring a rich blue and gold border, displayed on a wooden table with a coffee cup and a small plant, in a modern living room setting.",
+    "negative_prompt": "blurry, low resolution, text, watermark, extra objects, cluttered, dark colors, small, tiny, pixelated, distorted, messy, cluttered, messy, cluttered,"
+  },
+  {
+    "pair_id": "0049",
+    "ref_image": "r144.png",
+    "product_image": "p049.png",
+    "product_title": "Fangxingweiai Foldable Desk, No-Assembly Home Computer Desk, Haze Blue, 70 x 44.5 x 75cm",
+    "prompt_style": "product_focus",
+    "prompt": "A modern, minimalist foldable desk in hazy blue, sleek and functional, with a clean, contemporary design, placed on a white background.",
+    "negative_prompt": "clutter, messy, blurry, extra text, cluttered, disorganized, cartoonish, ugly, low quality, distorted."
+  },
+  {
+    "pair_id": "0050",
+    "ref_image": "r042.png",
+    "product_image": "p050.png",
+    "product_title": "Phoenix Electric Bicycle, Long-Range Adult E-Bike, L8 Beige, 48V 6Ah, 26-inch, 7-Speed, 24km Range",
+    "prompt_style": "product_focus",
+    "prompt": "A stylish beige electric bicycle with a basket and spoked wheels, featuring a modern design and a 26-inch wheel, positioned on a wooden floor with a warm, inviting atmosphere, showcasing the Phoenix Electric Bicycle in a clean, professional product shot.",
+    "negative_prompt": "clutter, messy, blurry, low resolution, extra text, cartoonish, unrealistic, distorted, dark shadows, background noise, product not in focus."
+  },
+  {
+    "pair_id": "0051",
+    "ref_image": "r032.png",
+    "product_image": "p051.png",
+    "product_title": "Foldable Baby Bathtub for Newborns and Kids, Touch Temperature Display, Volcano Gray with Bath Stand",
+    "prompt_style": "product_focus",
+    "prompt": "A modern, foldable baby bathtub in volcano gray with a digital temperature display, set against a warm, inviting outdoor hot tub scene with a couple relaxing, showcasing the product as a central, stylish, and practical solution for newborns and kids.",
+    "negative_prompt": "cluttered, blurry, unrealistic, cartoonish, overly complex, low resolution, text-heavy, irrelevant background, product not in focus, unrealistic lighting, unprofessional,"
+  },
+  {
+    "pair_id": "0052",
+    "ref_image": "r179.png",
+    "product_image": "p052.png",
+    "product_title": "Feichi Rapid IPL Hair Removal Device, Ice Jade Gen 2, Fast Flash Home Hair Remover",
+    "prompt_style": "product_focus",
+    "prompt": "A sleek, modern advertisement for the Feichi Rapid IPL Hair Removal Device, Ice Jade Gen 2, featuring a minimalist design with a cool green and white color scheme, a clean composition, and a confident, futuristic feel, centered on the product against a",
+    "negative_prompt": "cluttered text, blurry image, low resolution, extra elements, unrealistic lighting, product not visible, no brand name, no clear"
+  },
+  {
+    "pair_id": "0053",
+    "ref_image": "r160.png",
+    "product_image": "p053.png",
+    "product_title": "CELV Men's Backpack, Lightweight Large-Capacity Travel and Laptop Backpack, Water-Resistant, Gray, 30 x 45 x 15cm",
+    "prompt_style": "product_focus",
+    "prompt": "A modern, sleek gray mens backpack with yellow zipper pulls, large capacity, and a minimalist design, centered on a clean white background.",
+    "negative_prompt": "clutter, messy, blurry, text, extra colors, cartoonish, low resolution."
+  },
+  {
+    "pair_id": "0054",
+    "ref_image": "r040.png",
+    "product_image": "p054.png",
+    "product_title": "FEIRSH Inflatable Mattress with Built-In Pump, Portable Camping Air Bed, Single Size 25cm with Peach-Skin Inflatable Pillow",
+    "prompt_style": "product_focus",
+    "prompt": "A large, modern inflatable mattress with a peach-skin finish, featuring a built-in pump and a single-size design, set against a clean blue and white background with a soft, inviting mood.",
+    "negative_prompt": "small, blurry, cluttered, text-heavy, dark colors, low resolution, cartoonish, unrealistic, distorted."
+  },
+  {
+    "pair_id": "0055",
+    "ref_image": "r005.png",
+    "product_image": "p055.png",
+    "product_title": "Haier Washer-Dryer Combo, 10kg Full-Automatic Front Load Washing Machine with AI Six-Dimensional Shock Reduction, Wash Ratio 1.1",
+    "prompt_style": "product_focus",
+    "prompt": "Haier washer-dryer combo, 10kg full-automatic front-load, sleek silver, modern design, central focus, bright orange background, clean and modern, high-quality, sharp focus, realistic, 3D render, product image, home appliance, promotional poster, clear, detailed, vibrant, modern, clean, bright, modern, sleek, high-quality, realistic, 3D render,",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0056",
+    "ref_image": "r163.png",
+    "product_image": "p056.png",
+    "product_title": "ASUS ROG XG27UCG 27-inch 4K Gaming Monitor, 4K 160Hz / FHD 320Hz Dual Mode, HDR400, HDMI 2.1",
+    "prompt_style": "product_focus",
+    "prompt": "ASUS ROG XG27UCG 27-inch 4K gaming monitor, vibrant purple and red gradient, sleek black frame, central focus, high-tech gaming aesthetic, modern design, sharp details, clean background, dynamic lighting, bold text, premium quality, 4K 160Hz, HDR400, HDMI 2.1, glowing screen, sharp edges, professional",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0057",
+    "ref_image": "r106.png",
+    "product_image": "p057.png",
+    "product_title": "Ruchu Tmall Genie Magnetic Levitation Globe, Rechargeable Educational Globe Gift for Kids",
+    "prompt_style": "product_focus",
+    "prompt": "A large, clear, magnetic levitation globe with a digital clock, floating in a minimalist white frame, set against a warm wooden background, showcasing a vibrant world map, with a soft, elegant, and modern aesthetic.",
+    "negative_prompt": "cluttered, blurry, distorted, low resolution, text-heavy, dark colors, cluttered background, unrealistic lighting, cartoonish, pixelated, overly complex."
+  },
+  {
+    "pair_id": "0058",
+    "ref_image": "r199.png",
+    "product_image": "p058.png",
+    "product_title": "Kashiyi Sofa Bed, Multifunctional Pull-Out Fabric Sofa for Small Apartments, 1.4m, High-Density Foam + Suede",
+    "prompt_style": "product_focus",
+    "prompt": "A modern, minimalist white sofa bed with brown accent pillows, set against a backdrop of the London skyline, featuring a large, clear, and central focus on the product, with a clean, bright, and inviting mood, showcasing a luxurious and comfortable design.",
+    "negative_prompt": "cluttered, blurry, distorted, low resolution, text, watermark, extra elements, dark colors, shadows, and irrelevant background distractions."
+  },
+  {
+    "pair_id": "0059",
+    "ref_image": "r096.png",
+    "product_image": "p059.png",
+    "product_title": "DJI Neo Palm-Size Vlog Drone, 4K Mini Aerial Camera, Three-Battery Combo, Standard Version",
+    "prompt_style": "product_focus",
+    "prompt": "A sleek, white DJI Neo drone with a 4K camera and four propellers, positioned on a sandy beach with a clear blue sky, showcasing its compact design and modern aesthetic.",
+    "negative_prompt": "blurry, out of focus, cluttered, dark, low resolution, distorted, messy, cluttered, messy, cluttered, messy, cluttered, messy, cluttered, messy,"
+  },
+  {
+    "pair_id": "0060",
+    "ref_image": "r089.png",
+    "product_image": "p060.png",
+    "product_title": "Huawei WiFi 3 Pro Portable Mobile Hotspot, Tri-Network 4G/5G Pocket Router, Dual-Band, MT33",
+    "prompt_style": "product_focus",
+    "prompt": "A sleek blue Huawei WiFi 3 Pro hotspot, compact and modern, with dual-band 4G/5G connectivity, displayed on a clean white background, emphasizing its portability and advanced technology.",
+    "negative_prompt": "cluttered, blurry, extra text, unrealistic lighting, product in wrong orientation, low resolution."
+  },
+  {
+    "pair_id": "0061",
+    "ref_image": "r182.png",
+    "product_image": "p061.png",
+    "product_title": "KUKA Home Computer Chair, Comfortable Ergonomic Office and Leisure Chair, Sunset Orange, Fixed Armrests",
+    "prompt_style": "product_focus",
+    "prompt": "A modern, comfortable KUKA home computer chair in sunset orange with fixed armrests, sleek gold base, and plush cushioning, centered on a dark blue textured background, showcasing a premium office and leisure chair with a clean, professional aesthetic.",
+    "negative_prompt": "cluttered, blurry, distorted, extra text, low resolution, cartoonish, unrealistic, overly complex, distracting elements, product not clearly visible, poor"
+  },
+  {
+    "pair_id": "0062",
+    "ref_image": "r067.png",
+    "product_image": "p062.png",
+    "product_title": "iFLYTEK Translation Earbuds, Wireless Bluetooth Simultaneous Interpretation Earphones, Model B11, Black",
+    "prompt_style": "product_focus",
+    "prompt": "sleek black iFLYTEK earbuds in charging case, modern design, vibrant red accents, bold text overlay 50% OFF, dynamic tech poster style, high contrast, sharp focus, clean white background, professional product shot, central composition, vibrant colors, modern aesthetic, clear product visibility, premium feel,",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0063",
+    "ref_image": "r110.png",
+    "product_image": "p063.png",
+    "product_title": "EDIFIER HECATE G2 Pro Gaming Headset, 7.1 Surround Sound, Noise-Canceling Mic, USB, Pink Cat-Ear Edition",
+    "prompt_style": "product_focus",
+    "prompt": "A vibrant, high-contrast product poster featuring the EDIFIER HECATE G2 Pro Gaming Headset in a striking pink cat-ear edition, with a bold, colorful design, set against a cosmic background with a Shop now call to action.",
+    "negative_prompt": "blurry, low resolution, text error, irrelevant elements, cluttered, dark, muted colors, no product focus."
+  },
+  {
+    "pair_id": "0064",
+    "ref_image": "r129.png",
+    "product_image": "p064.png",
+    "product_title": "Authentic Fuling Shredded Pickled Mustard Tuber, Ready-to-Eat Side Dish, Yuyang, 10 Bags",
+    "prompt_style": "product_focus",
+    "prompt": "A vibrant, autumnal poster featuring a bowl of golden, shredded pickled mustard tuber as the central focus, with warm, earthy tones and a rustic, inviting feel. The background is a soft, muted green, and the text Authentic Fuling Shredded Pickled Mustard Tuber",
+    "negative_prompt": "blurry, pixelated, distorted, extra text, cluttered, dark shadows, low resolution, cartoonish, unrealistic colors, off-center, cluttered background,"
+  },
+  {
+    "pair_id": "0065",
+    "ref_image": "r123.png",
+    "product_image": "p065.png",
+    "product_title": "Mr. Nanchu New Chinese Style Orchid Bronze Ornament, Elegant Home and Office Décor",
+    "prompt_style": "product_focus",
+    "prompt": "A large, elegant Chinese-style orchid bronze ornament with pink flowers and gold stems, placed in a white marble vase, set against a soft, minimalist background, with a traditional Japanese woodblock print style aesthetic, vibrant and serene.",
+    "negative_prompt": "cluttered, blurry, low resolution, cartoonish, distorted, extra text, dark colors, harsh lighting, cluttered background, unrealistic, poorly lit, low"
+  },
+  {
+    "pair_id": "0066",
+    "ref_image": "r052.png",
+    "product_image": "p066.png",
+    "product_title": "Fresh Free-Range Eggs, Farm Eggs, Selected 20 Pieces",
+    "prompt_style": "product_focus",
+    "prompt": "A fresh, high-quality basket of 20 free-range eggs, with one cracked to reveal a vibrant yolk, set against a clean, modern background with a warm, natural color palette. The composition is centered, with a focus on the eggs, and the mood is",
+    "negative_prompt": "clutter, messy, blurry, low resolution, text, extra elements, dark colors, cartoonish, distorted."
+  },
+  {
+    "pair_id": "0067",
+    "ref_image": "r001.png",
+    "product_image": "p067.png",
+    "product_title": "RALEIGH Folding Bicycle, Ultra-Light Portable Commuter Bike, Dark Purple, 16-inch, 7-Speed",
+    "prompt_style": "product_focus",
+    "prompt": "A sleek, dark purple Raleigh folding bicycle with 16-inch wheels and 7-speed gear, positioned on a racetrack, with a dynamic blue Audi R8 in the background, showcasing a modern, sporty, and premium feel.",
+    "negative_prompt": "blurry, low resolution, extra text, cluttered, cartoonish, unrealistic, distorted, off-color, poorly lit, unprofessional, irrelevant, irrelevant, irrelevant, irrelevant, irrelevant,"
+  },
+  {
+    "pair_id": "0068",
+    "ref_image": "r059.png",
+    "product_image": "p068.png",
+    "product_title": "Lenovo Legion R7000 2025 Gaming Laptop, Ryzen R7-8745H, 16GB+512GB, RTX 4060, 15.6-inch Gaming Display",
+    "prompt_style": "product_focus",
+    "prompt": "sleek Lenovo Legion R7000 2025 gaming laptop, 15.6-inch display, Ryzen R7-8745H, 16GB+512GB, RTX 4060, vibrant red and black color scheme, sharp focus, modern design, central composition, high detail, professional advertisement, clean background, bold LEGION logo on screen, dynamic dragon graphic, premium feel,",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0069",
+    "ref_image": "r193.png",
+    "product_image": "p069.png",
+    "product_title": "Chuidaohuang Silicone Spatula for Nonstick Woks and Frying Pans, Heat-Resistant with Comfortable Grip",
+    "prompt_style": "product_focus",
+    "prompt": "A clean, modern product poster featuring a sleek, gray silicone spatula with a black handle and red accent, centered against a vibrant green background with the text COMPOSTABLE. STRONG. and a SHOP NOW button.",
+    "negative_prompt": "cluttered text, blurry image, product not in focus, unrealistic colors, excessive shadows."
+  },
+  {
+    "pair_id": "0070",
+    "ref_image": "r174.png",
+    "product_image": "p070.png",
+    "product_title": "Spalding TF-1000 Indoor Game Basketball, Moisture-Absorbing Cover, Model 74-716A",
+    "prompt_style": "product_focus",
+    "prompt": "A vibrant orange Spalding TF-1000 basketball, centered on a black background, with bold text and a dynamic sports theme, showcasing advanced moisture management.",
+    "negative_prompt": "blurry, low resolution, text error, extra objects, cluttered, off-color, distorted."
+  },
+  {
+    "pair_id": "0071",
+    "ref_image": "r073.png",
+    "product_image": "p071.png",
+    "product_title": "MAXCOOK 30cm Iron Wok, Coating-Free Frying Pan for Gas and Induction Cooktops, Model MDB-30",
+    "prompt_style": "product_focus",
+    "prompt": "A sleek black MAXCOOK 30cm iron wok with a textured non-stick coating, centered on a minimalist white background, showcasing its modern design and functional features, with a clean, contemporary product poster style.",
+    "negative_prompt": "clutter, messy, blurry, extra text, cartoonish, unrealistic, low quality, distorted."
+  },
+  {
+    "pair_id": "0072",
+    "ref_image": "r127.png",
+    "product_image": "p072.png",
+    "product_title": "Nongfu Spring Natural Drinking Water for Infants and Young Children, 1L x 12 Bottles",
+    "prompt_style": "product_focus",
+    "prompt": "A clean, modern product poster featuring a large, clear bottle of Nongfu Spring water and a box of 12 bottles, set against a soft, natural background with a playful dog and forest theme, emphasizing purity and freshness.",
+    "negative_prompt": "cluttered, blurry, cartoonish, unrealistic, overly complex, low resolution, text-heavy, inappropriate animal, inappropriate product, unrealistic colors, low quality, no"
+  },
+  {
+    "pair_id": "0073",
+    "ref_image": "r045.png",
+    "product_image": "p073.png",
+    "product_title": "Theland Grass-Fed Full Cream Milk, 3.5g Protein, High Calcium, 250ml x 24, Imported from New Zealand",
+    "prompt_style": "product_focus",
+    "prompt": "A large, central box of Theland 100% Pure Milk with 3.5g protein, 250ml x 24, imported from New Zealand, featuring a clean, natural aesthetic with blue and green tones, a pastoral scene, and a simple, modern design.",
+    "negative_prompt": "cluttered text, small text, blurry, low resolution, extra packaging, cartoonish style, unrealistic proportions, excessive colors, cluttered background, product"
+  },
+  {
+    "pair_id": "0074",
+    "ref_image": "r023.png",
+    "product_image": "p074.png",
+    "product_title": "Jinxiangyu Yixing Purple Clay Cup, Large-Capacity Tea Cup with Landscape Carving, Approx. 450ml",
+    "prompt_style": "product_focus",
+    "prompt": "A large, elegant Yixing purple clay tea cup with a detailed landscape carving, featuring a serene mountain scene and the text 野渡无人舟自横 (A wild stream with no one, a boat drifting), set against a soft, earthy background with a warm, natural tone.",
+    "negative_prompt": "blurry, distorted, extra text, cluttered, low resolution, dark shadows, harsh lighting, cartoonish, unrealistic, overly complex, low quality"
+  },
+  {
+    "pair_id": "0075",
+    "ref_image": "r041.png",
+    "product_image": "p075.png",
+    "product_title": "La Roche-Posay Toleriane Cleanser 125ml, Gentle Foaming Facial Cleanser and Makeup Remover",
+    "prompt_style": "product_focus",
+    "prompt": "A clean, modern skincare ad featuring La Roche-Posay Toleriane Cleanser in a light blue tube, centered against a soft gradient background with a glass shelf, emphasizing gentle, soothing skincare.",
+    "negative_prompt": "cluttered text, blurry product, dark background, excessive shadows, unrealistic skin texture."
+  },
+  {
+    "pair_id": "0076",
+    "ref_image": "r043.png",
+    "product_image": "p076.png",
+    "product_title": "KUYURA Body Wash 550ml, Fragrant Moisturizing Shower Gel, Yellow Bottle",
+    "prompt_style": "product_focus",
+    "prompt": "A clean, modern product poster featuring a large, central yellow KUYURA body wash bottle with a pump, set against a soft blue and white background, with a SHOP NOW button and a gentle, soothing mood.",
+    "negative_prompt": "cluttered text, blurry product, dark colors, excessive shadows, low resolution, cartoonish style, text overlay, product not in focus,"
+  },
+  {
+    "pair_id": "0077",
+    "ref_image": "r187.png",
+    "product_image": "p077.png",
+    "product_title": "Devondale Adult Milk Powder, High Calcium, No Added Sucrose, Skim Milk Powder, 1kg, Imported from Australia",
+    "prompt_style": "product_focus",
+    "prompt": "A vibrant green 1kg bag of Devondale Adult Milk Powder, high calcium, skim milk powder, no added sucrose, imported from Australia, with a clean, modern design, centered on a wooden surface, bright and inviting.",
+    "negative_prompt": "blurry, dark, cluttered, text unreadable, low resolution, cartoonish, messy, disorganized, cluttered background, poor lighting, dull colors, unprofessional, unclean,"
+  },
+  {
+    "pair_id": "0078",
+    "ref_image": "r120.png",
+    "product_image": "p078.png",
+    "product_title": "Pengyou Folding Bed, Solid Wood Single Bed for Office Naps and Home Use, 1.2m Wide, Model PY-ZD12",
+    "prompt_style": "product_focus",
+    "prompt": "A modern, minimalist solid wood folding bed in a natural light setting, with a clean, open design, placed in a desert landscape. The bed is the central focus, with a warm, earthy color palette of light wood and soft blue accents. The",
+    "negative_prompt": "clutter, messy, blurry, distorted, extra text, dark shadows, low resolution, cartoonish, unrealistic, overly complex."
+  },
+  {
+    "pair_id": "0079",
+    "ref_image": "r099.png",
+    "product_image": "p079.png",
+    "product_title": "Longines DolceVita Women's Swiss Quartz Watch with Steel Bracelet, Model L42094116",
+    "prompt_style": "product_focus",
+    "prompt": "Line 1:",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0080",
+    "ref_image": "r058.png",
+    "product_image": "p080.png",
+    "product_title": "SanDisk CZ73 128GB USB Flash Drive, Secure Encryption and Data Recovery, Metal USB Drive",
+    "prompt_style": "product_focus",
+    "prompt": "SanDisk CZ73 128GB USB flash drive, sleek metal design, blue USB port, secure encryption, data recovery, modern tech, vibrant blue and silver, clean background, sharp focus, product center, high detail, digital product poster, bold text, premium, trustworthy, secure, modern, sleek, high quality,",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0081",
+    "ref_image": "r035.png",
+    "product_image": "p081.png",
+    "product_title": "Kangaroo Mommy Bird's Nest Cushion CC Cream for Expectant Mothers, Natural Shade, with Refill",
+    "prompt_style": "product_focus",
+    "prompt": "A clean, modern product poster featuring the Kangaroo Mommy Birds Nest Cushion CC Cream in Natural Shade, with a sleek black and gold design, centered on a light blue background, showcasing a soft, natural glow.",
+    "negative_prompt": "cluttered text, blurry image, extra product, unrealistic skin tone, excessive colors, cluttered composition, low resolution, distorted features, overly"
+  },
+  {
+    "pair_id": "0082",
+    "ref_image": "r006.png",
+    "product_image": "p082.png",
+    "product_title": "Yokohama Tire 215/55R17 94V E70B, OE for GAC Honda Vezel, Odyssey, Camry and Hybrid",
+    "prompt_style": "product_focus",
+    "prompt": "A sleek, modern car tire with a bold black and silver design, featuring a detailed tread pattern, set against a clean white background, with a strong focus on the product.",
+    "negative_prompt": "cluttered text, blurry image, extra elements, unrealistic colors, low resolution, product not centered."
+  },
+  {
+    "pair_id": "0083",
+    "ref_image": "r076.png",
+    "product_image": "p083.png",
+    "product_title": "SEPTWOLVES Men's Cotton Tank Tops, High-Stretch Breathable Sports Vests, 2-Pack",
+    "prompt_style": "product_focus",
+    "prompt": "A bold, vibrant advertisement for SEPTWOLVES mens cotton tank tops, featuring a white and gray 2-pack rolled in a clean, modern layout with a bright yellow sunburst background, emphasizing comfort and style.",
+    "negative_prompt": "cluttered text, blurry details, extra colors, cartoonish elements, low resolution, distorted shapes, unrealistic lighting, excessive shadows, and irrelevant"
+  },
+  {
+    "pair_id": "0084",
+    "ref_image": "r196.png",
+    "product_image": "p084.png",
+    "product_title": "Yalu Antibacterial Fiber Summer Quilt / Air-Conditioning Comforter, 150 x 200cm, Light Gray",
+    "prompt_style": "product_focus",
+    "prompt": "A modern bedroom with a light gray quilt on a white bed, soft lighting, clean lines, and a calm, inviting mood.",
+    "negative_prompt": "clutter, messy, dark colors, blurry, low resolution."
+  },
+  {
+    "pair_id": "0085",
+    "ref_image": "r115.png",
+    "product_image": "p085.png",
+    "product_title": "Jiayi Solid Wood Coat Rack, Freestanding Clothes Hanger and Storage Rack",
+    "prompt_style": "product_focus",
+    "prompt": "A modern, freestanding wooden coat rack with a warm brown finish, featuring multiple hooks and a sturdy base, holding a scarf and a handbag, set against a clean white background, showcasing a minimalist and elegant design for a stylish home.",
+    "negative_prompt": "cluttered, blurry, extra text, cartoonish, unrealistic, distorted, messy, cluttered, low quality, dark colors, shadows, shadows, background clutter, cluttered,"
+  },
+  {
+    "pair_id": "0086",
+    "ref_image": "r070.png",
+    "product_image": "p086.png",
+    "product_title": "BULL Power Strip with Individual Switches, 4 Outlets, 3m Cable, Model GN-B3043",
+    "prompt_style": "product_focus",
+    "prompt": "A sleek white BULL power strip with four outlets and individual switches, 3m cable, centered on a dark forest background with a SAVE 30% banner, modern and clean design, high contrast, vibrant colors, bold typography, digital magazine cover style, realistic lighting, sharp",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  },
+  {
+    "pair_id": "0087",
+    "ref_image": "r024.png",
+    "product_image": "p087.png",
+    "product_title": "MISSHA M Perfect Cover BB Cream SPF42/PA+++, No. 21, Classic Red BB",
+    "prompt_style": "product_focus",
+    "prompt": "A vibrant red and white advertisement for MISSHA M Perfect Cover BB Cream, featuring the product in a classic red tube with a gold cap, set against a bold red background with a clean, modern design and a clear call to action.",
+    "negative_prompt": "cluttered text, blurry product, dark colors, low resolution, extra elements, messy composition, irrelevant graphics."
+  },
+  {
+    "pair_id": "0088",
+    "ref_image": "r132.png",
+    "product_image": "p088.jpg",
+    "product_title": "Wei Chuan Wandan Shelf-Stable Milk, Non-Standardized Fat, 200ml",
+    "prompt_style": "product_focus",
+    "prompt": "A clean, modern product poster featuring a large, central 200ml carton of Wei Chuan Wandan milk with a green and white design, showcasing its non-standardized fat and shelf-stable qualities, with a doctors endorsement and a BUY NOW call to action.",
+    "negative_prompt": "cluttered text, blurry image, excessive colors, medical symbols, and a cluttered layout."
+  },
+  {
+    "pair_id": "0089",
+    "ref_image": "r140.png",
+    "product_image": "p089.jpg",
+    "product_title": "SENTOSA Goat Milk Powder, 800g",
+    "prompt_style": "product_focus",
+    "prompt": "A large, vibrant can of SENTOSA Goat Milk Powder, 800g, with a bright green and blue label featuring a pastoral scene of sheep and windmills, set against a clean white background, with a bold, modern font and a clear, inviting design.",
+    "negative_prompt": "cluttered, blurry, low resolution, text errors, extra objects, dark colors, shadows, and a cluttered background."
+  },
+  {
+    "pair_id": "0090",
+    "ref_image": "r131.png",
+    "product_image": "p090.jpg",
+    "product_title": "Taiwan Sixiu Crispy Salted Winter Bamboo Shoot Crackers, 25g x 10 Packs",
+    "prompt_style": "product_focus",
+    "prompt": "A vibrant red and yellow advertisement featuring Taiwan Sixiu Crispy Salted Winter Bamboo Shoot Crackers, 25g x 10 Packs, prominently displayed in the center with a bold, modern design and a SHOP NOW button at the bottom.",
+    "negative_prompt": "cluttered text, blurry product, off-center composition, excessive white space, unrealistic lighting, cartoonish style, low resolution, poor color contrast,"
+  },
+  {
+    "pair_id": "0091",
+    "ref_image": "r012.png",
+    "product_image": "p091.jpg",
+    "product_title": "Ve Wong Prince Noodles, Original Flavor, 40g x 5 Packs",
+    "prompt_style": "product_focus",
+    "prompt": "A stylish woman in a cream sweater and brown pants, sitting on a chair, wearing a Prince noodles package, with a warm, inviting mood, vibrant yellow background, 5 packs of noodles, clear and central focus.",
+    "negative_prompt": "blurry, low quality, text unreadable, cluttered, messy, dark colors, poor lighting, distorted."
+  },
+  {
+    "pair_id": "0092",
+    "ref_image": "r028.png",
+    "product_image": "p092.jpg",
+    "product_title": "okamoto 003 PLATINUM Ultra-Thin Condoms",
+    "prompt_style": "product_focus",
+    "prompt": "A sleek black and red advertisement for okamoto 003 PLATINUM condoms, with a vibrant iridescent box, bold text, and a modern, high-impact design, featuring a close-up of the product in the center.",
+    "negative_prompt": "cluttered text, blurry image, low resolution, extra elements, irrelevant background, poor lighting, distorted colors."
+  },
+  {
+    "pair_id": "0093",
+    "ref_image": "r039.png",
+    "product_image": "p093.jpg",
+    "product_title": "Anchor Full Cream Milk, 1L",
+    "prompt_style": "product_focus",
+    "prompt": "A vibrant, full-cream milk carton in a 1L size, centered in a dynamic, celebratory advertisement with a bold red background, showcasing the Anchor brand, fresh milk, and a joyful, festive mood.",
+    "negative_prompt": "cluttered text, blurry image, low resolution, extra elements, cartoonish style, unrealistic colors, distorted shapes."
+  },
+  {
+    "pair_id": "0094",
+    "ref_image": "r157.png",
+    "product_image": "p094.jpg",
+    "product_title": "Chung Hsiang Qiaoxin Soda Crackers with Nougat Filling, Original Flavor, 145g",
+    "prompt_style": "product_focus",
+    "prompt": "A vibrant, clean product poster featuring a stack of Chung Hsiang Qiaoxin soda crackers with nougat filling, 145g, in a clear plastic bag, with a warm, inviting background and a bright blue and white color scheme, centered on the image, with a",
+    "negative_prompt": "cluttered text, blurry image, excessive colors, cartoonish style, product not clearly visible, no clear focus."
+  },
+  {
+    "pair_id": "0095",
+    "ref_image": "r074.png",
+    "product_image": "p095.jpg",
+    "product_title": "Amei Mochi Cake, Original Flavor, 350g",
+    "prompt_style": "product_focus",
+    "prompt": "Amei Mochi Cake, Original Flavor, 350g, vibrant red and gold packaging, bold Chinese characters, glossy finish, central focus, appetizing, warm lighting, modern food advertisement style, clean and simple composition.",
+    "negative_prompt": "blurry, low resolution, extra text, cluttered, dark shadows, cartoonish, messy, unprofessional, off-color, poor lighting, distorted."
+  },
+  {
+    "pair_id": "0096",
+    "ref_image": "r061.png",
+    "product_image": "p096.jpg",
+    "product_title": "Lian Hwa Foods Assorted Snack Box, 39 Packs",
+    "prompt_style": "product_focus",
+    "prompt": "A large, open cardboard box filled with colorful snack packs, featuring a vibrant red, yellow, and blue palette, with a steaming bowl of ramen in the background, showcasing a warm, appetizing, and inviting atmosphere.",
+    "negative_prompt": "cluttered, blurry, low resolution, text error, cartoonish, unrealistic, unprofessional, no clear product focus."
+  },
+  {
+    "pair_id": "0097",
+    "ref_image": "r068.png",
+    "product_image": "p097.jpg",
+    "product_title": "Dr.P Adult Underpads XL, 8 Sheets, 60 x 90cm",
+    "prompt_style": "product_focus",
+    "prompt": "A clean, modern product poster featuring Dr.P Adult Underpads XL, 8 sheets, 60x90cm, in a vibrant green and white design, with a hand placing the pads on a clean surface, emphasizing their size and absorbency.",
+    "negative_prompt": "cluttered, blurry, text-heavy, unrealistic, cartoonish, low resolution, extra colors, messy, disorganized, product not in focus."
+  },
+  {
+    "pair_id": "0098",
+    "ref_image": "r051.png",
+    "product_image": "p098.png",
+    "product_title": "Galanz P70F23P-G5(S0) 23L Microwave Oven, Knob Control, Flatbed Heating, Six Power Levels",
+    "prompt_style": "product_focus",
+    "prompt": "A sleek white microwave oven with a black glass door, featuring a large central knob and six power levels, displayed against a clean white background with a modern, minimalist design.",
+    "negative_prompt": "cluttered, blurry, text-heavy, dark colors, low resolution, extra text, messy, disorganized, cartoonish, pixelated, distorted, low quality, blurry, smeared,"
+  },
+  {
+    "pair_id": "0099",
+    "ref_image": "r176.png",
+    "product_image": "p099.png",
+    "product_title": "Snowhite Direct-Liquid Rollerball Gel Pen, Black, 12-Pack, Model PVR-155",
+    "prompt_style": "product_focus",
+    "prompt": "A bold, modern product poster featuring a vibrant red and white background with a central image of three black Snowhite rollerball pens, showcasing the PVR-155 model in black, red, and blue ink, with a clean, professional design and a BUY NOW call",
+    "negative_prompt": "cluttered text, blurry image, low resolution, extra colors, cartoonish style, excessive text, messy composition, unrealistic lighting, distorted shapes."
+  },
+  {
+    "pair_id": "0100",
+    "ref_image": "r010.png",
+    "product_image": "p100.png",
+    "product_title": "Danisa Danish Butter Cookies with Raisins, 90g, Imported from Indonesia",
+    "prompt_style": "product_focus",
+    "prompt": "A stylish woman in a black and white tweed coat and skirt, wearing a white sweater, standing in a modern, chic fashion studio with a clean background, showcasing Danisa Currant Crunch cookies in a vibrant purple and cream packaging, with a bold",
+    "negative_prompt": "blurry, distorted product, extra objects, bad text, low quality"
+  }
+]
